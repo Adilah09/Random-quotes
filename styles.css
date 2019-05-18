@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.blockquote-footer {
+  color: white;
+}
+
+#message {
+  font-size: 2em;
+}
